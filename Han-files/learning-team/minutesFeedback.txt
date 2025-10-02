@@ -1,5 +1,0 @@
-pros:
-	-who is doing what
-	-priority and focus for the week
-cons:
-	-here

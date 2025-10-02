@@ -1,6 +1,0 @@
-there exists:
-	-unsigned
-	-signed
-	-1 complement
-	-2 complement
-negative numbers can be represented as 2s complement and added to unsigned numbers for subtraction

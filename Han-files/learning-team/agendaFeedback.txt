@@ -1,8 +1,0 @@
-pro:
-	-nice checkmarks
-con:
-	-time is unrealistic
-SOAT:
-	-missing objective and approach	
-	-for example:
-		-what everyone is working on

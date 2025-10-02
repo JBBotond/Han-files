@@ -1,8 +1,0 @@
-tuesday:
-	- agenda together, prepare for costumer e-mail
-on meetings keep in mind to:
-	- information, solutions -> support, check work
-in an agenda u need:
-	- Subject, Objective, Approach, Time
-chairperson makes agenda, meeting minutes by minute taker
-	- I need one of both as assignements

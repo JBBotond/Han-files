@@ -1,6 +1,0 @@
-Resistance equivalent, analyzing current:
-	- in series, just add the Ohm values
-	- in parallel, it's resistances multiplied divided by resistances sum
-Voltage division:
-	- certain ratio of resistors can be used to lower voltage
-	- formula on yellow pages
