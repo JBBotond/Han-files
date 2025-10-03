@@ -1,9 +1,9 @@
 /*
   MIC1 Week 5. Sensors and Actuators 1
 
-  Author <Student name>
-         <Student number>
-  Date   dd/mm/yyyy
+  Author Janosi Barna-Botond
+         2170302
+  Date   03/10/2025
 */
 
 // Include the LCD library

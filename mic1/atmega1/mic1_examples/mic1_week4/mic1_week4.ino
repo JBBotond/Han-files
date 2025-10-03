@@ -44,12 +44,15 @@ void setup() {
   pinMode(buttonPin, INPUT);
   pinMode(photoresistorPin, INPUT);
   pinMode(ledBO, OUTPUT);
+  pinMode(ledBO2, OUTPUT);
 
   // Read the button pin startup value
   previousButtonState = digitalRead(buttonPin);
 
   //initialize breakout led as LOW
   analogWrite(ledBO, 0);
+  digitalWrite(ledBO2, ledBO2State);
+  prevPhotoresistorValue = analogRead(photoresistorPin);
 }
 
 void loop() {
