@@ -1,0 +1,10 @@
+1	short Vs and open Is
+2	look into circuit
+3	find Rth
+4	go back to original circuit
+5	solve using:
+		-nodal analysis
+		-current division 
+		-Ohm's law
+If u need Inorthon:
+	short the clamps
