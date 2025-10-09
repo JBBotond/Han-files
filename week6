@@ -1,0 +1,9 @@
+keep Gray code in mind
+learn to draw/read Kmap's
+cubing can be used to optimize (minimize)
+	putting variables in cubes of the Kmap
+	cubes must always be powers of 2
+---------
+put all 1's in squares, leave out all 0's
+write all variables per square -> simplify logically
+---------
