@@ -123,7 +123,10 @@ void loop() {
       else {
         //track maximum distance
         if(distance_cm > maxDist) {
-          maxDist = distance_cm;
+          if(maxDist >= barSize)
+            maxDist = barSize;
+          else
+            maxDist = distance_cm;
         }
         //put a square for each cm
         for(int i = 0; i < barSize && i < distance_cm; i++) {

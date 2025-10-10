@@ -1,9 +1,9 @@
 /*
   MIC1 Week 6. Sensors and Actuators 2
 
-  Author <Student name>
-         <Student number>
-  Date   dd/mm/yyyy
+  Author Janosi Barna-Botond
+         2170302
+  Date   10/10/2025
 */
 // Include the EEPROM library
 #include <EEPROM.h>
